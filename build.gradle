@@ -59,7 +59,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'me.goddragon.teaseai.TeaseAI'
+    mainClass.set('me.goddragon.teaseai.TeaseAI')
 }
 
 jar {
